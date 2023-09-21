@@ -1,0 +1,5 @@
+/home/judson/Documents/linux-exercises-Vindiktur
+myscript.bash
+Script1-out.txt
+Script1.sh
+Thu Sep 21 06:39:44 PM CDT 2023
